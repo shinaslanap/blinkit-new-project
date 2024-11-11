@@ -1,0 +1,10 @@
+#outer{
+    display: flex;
+    border: 1px solid black;
+}
+
+.inner{
+    height: 100px;
+    width: 100px;
+}
+
